@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🌌 "But I think the harder the problem, the more its worth solving."
+####
+🌌 "But I think the harder the problem, the more its worth solving."
