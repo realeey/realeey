@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 diving into scifnetific computing using rust!
 - 🌌 "But I think the harder the problem, the more its worth solving."
